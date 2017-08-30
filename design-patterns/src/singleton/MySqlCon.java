@@ -17,7 +17,7 @@ public class MySqlCon {
 
     private Connection connection = null;
 
-    protected MySqlCon() {
+    private MySqlCon() {
         //previne instanciação de objetos
     }
 
